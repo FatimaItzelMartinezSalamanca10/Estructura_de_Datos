@@ -32,7 +32,7 @@ El proyecto está organizado dentro del paquete `Colas` y se divide en las sigui
 
 ### 3. Cola Dinámica (`ColaDinamica`)
 - **Descripción:** Estructura de tamaño variable construida a partir de nodos enlazados (`Nodo`).
-- **Funcionamiento:** Administra punteros a `frente` y `fin`. No posee límite estricto de capacidad en memoria más allá del espacio disponible en la JVM.
+- **Funcionamiento:** Administra punteros a `frente` y `fin`.
 - **Operaciones añadidas:**
   - `peek()`: Retorna el dato del nodo en el frente de la cola sin desvincularlo.
   - `contarElementos()`: Realiza un recorrido iterativo (`while`) a través de la lista enlazada para calcular el número total de nodos activos en la cola.
