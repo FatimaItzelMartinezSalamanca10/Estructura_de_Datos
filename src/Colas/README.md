@@ -1,6 +1,6 @@
 # Práctica de Programación en Java: Arquitectura Modular y Colas
 
-Este repositorio contiene la implementación en Java de tres variantes de la estructura de datos tipo Cola (**Estática Lineal**, **Estática Circular** y **Dinámica** basada en nodos). La práctica se desarrolló bajo un enfoque estrictamente modular, probando el comportamiento de cada estructura mediante clases `Main` independientes.
+Este repositorio contiene la implementación en Java de tres variantes de la estructura de datos tipo Cola (**Estática**, **Estática Circular** y **Dinámica** basada en nodos). La práctica se desarrolló bajo un enfoque estrictamente modular, probando el comportamiento de cada estructura mediante clases `Main` independientes.
 
 ---
 
