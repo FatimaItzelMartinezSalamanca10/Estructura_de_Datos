@@ -33,9 +33,13 @@ java Metodos_de_ordenamiento.Main
 
 Al correr el programa correctamente, se mostrará el estado inicial del arreglo y el resultado ordenado de menor a mayor:
 
+
 === PRÁCTICA: ALGORITMO DE ORDENAMIENTO POR BURBUJA ===
 Estado inicial del arreglo:
+
 [45, 12, 88, 3, 22, 67, 19]
 
+
 Estado final del arreglo ordenado:
+
 [3, 12, 19, 22, 45, 67, 88]
