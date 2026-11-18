@@ -35,6 +35,7 @@ Al correr el programa correctamente, se mostrará el estado inicial del arreglo 
 
 
 === PRÁCTICA: ALGORITMO DE ORDENAMIENTO POR BURBUJA ===
+
 Estado inicial del arreglo:
 
 [45, 12, 88, 3, 22, 67, 19]
