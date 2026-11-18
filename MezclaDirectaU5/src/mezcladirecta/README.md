@@ -1,4 +1,4 @@
-*** Mezcla Directa***
+## Mezcla Directa
 
 ## Estructura del proyecto
 
