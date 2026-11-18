@@ -8,11 +8,17 @@ El programa está estructurado dentro del paquete Metodos_de_ordenamiento e incl
 
 **Estructura del Repositorio**
 
+
 ├── Metodos_de_ordenamiento/
+
 │   ├── Burbuja.java         # Implementación del algoritmo de ordenamiento e impresión
+
 │   └── Main.java            # Clase principal de prueba y validación en consola
+
 │   └── README.md            # Documentación e instrucciones de uso
+
 └─   Pdf                     # Reporte de la practica
+
 
 
 **Instrucciones de Ejecución**
