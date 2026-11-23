@@ -1,4 +1,4 @@
-# Una práctica con QuickSort y ShellSort
+# práctica con QuickSort y ShellSort
 
 **Fátima Itzel Martínez Salamanca**  
 Estructura de Datos · Tarea 2 de la Unidad 5 · 22 de noviembre de 2026
