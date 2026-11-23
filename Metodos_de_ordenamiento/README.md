@@ -16,7 +16,8 @@ java -cp out Metodos_de_ordenamiento.MainQuick
 java -cp out Metodos_de_ordenamiento.MainShell
 ```
 
-Abre la carpeta completa y usa ** Java**. En **Ejecutar y depurar**, elige **QuickSort** o **ShellSort** y pulsa **F5**. La salida aparece en la consola de depuración.
+Abre la carpeta completa y usa ** Java**. En **Ejecutar y depurar**, elige **QuickSort** o **ShellSort** y pulsa **F5**.
+La salida aparece en la consola de depuración.
 
 ## Comprobar la salida
 
